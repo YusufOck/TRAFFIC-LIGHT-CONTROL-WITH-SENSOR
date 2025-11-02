@@ -25,14 +25,14 @@ The "sensor" (push button) acts as a physical input that triggers the state mach
 #### 1. Breadboard Prototype
 The initial circuit was prototyped on a breadboard. This phase was critical for testing the state machine logic, ensuring the flip-flops transitioned correctly, and calibrating the timer durations.
 
-![Breadboard Layout](https://raw.githubusercontent.com/YusufOck/TRAFFIC-LIGHT-CONTROL-WITH-SENSOR/main/ART/PCB%20and%20BREADBoard%20img/BREADBOARD.png)
+![Breadboard Layout](https://github.com/YusufOck/TRAFFIC-LIGHT-CONTROL-WITH-SENSOR/blob/main/PCB%20and%20BREADBARD%20images/BREADBARD.png)
 
 #### 2. Final PCB (Printed Circuit Board)
 After validating the logic, a custom **Printed Circuit Board (PCB)** was designed. This eliminates wiring errors and creates a permanent, robust, and compact final product. The PCB itself is the physical embodiment of the finite state machine.
 
-![PCB Final Design](https://raw.githubusercontent.com/YusufOck/TRAFFIC-LIGHT-CONTROL-WITH-SENSOR/main/ART/PCB%20and%20BREADBoard%20img/PCB.png)
+![PCB Final Design](https://github.com/YusufOck/TRAFFIC-LIGHT-CONTROL-WITH-SENSOR/blob/main/PCB%20and%20BREADBARD%20images/PCB.jpg)
 
-![PCB Copper Layout](https://raw.githubusercontent.com/YusufOck/TRAFFIC-LIGHT-CONTROL-WITH-SENSOR/main/ART/PCB%20and%20BREADBoard%20img/PCB%20Layout.png)
+![PCB Copper Layout](https://github.com/YusufOck/TRAFFIC-LIGHT-CONTROL-WITH-SENSOR/blob/main/PCB%20and%20BREADBARD%20images/PCB%20Layout.png)
 
 ---
 
@@ -40,7 +40,7 @@ After validating the logic, a custom **Printed Circuit Board (PCB)** was designe
 
 This image captures the early planning and design stages for the circuit logic and layout.
 
-![Design Phase](https://raw.githubusercontent.com/YusufOck/TRAFFIC-LIGHT-CONTROL-WITH-SENSOR/main/ART/PCB%20and%20BREADBoard%20img/Design%20Phase.jpg)
+![Design Phase](https://github.com/YusufOck/TRAFFIC-LIGHT-CONTROL-WITH-SENSOR/blob/main/PCB%20and%20BREADBARD%20images/Design%20Phase.jpg)
 
 ---
 
@@ -56,7 +56,7 @@ This is the alternative, software-based implementation of the same problem. The 
 
 This prototype shows the circuit built around a programmable chip, demonstrating the simplicity of the hardware when the logic is managed by software.
 
-![Microprocessor Breadboard](https://raw.githubusercontent.com/YusufOck/TRAFFIC-LIGHT-CONTROL-WITH-SENSOR/main/ART/PCB%20and%20BREADBoard%20img/Microprocessor%20Design%20on%20Breadboard.png)
+![Microprocessor Breadboard](https://github.com/YusufOck/TRAFFIC-LIGHT-CONTROL-WITH-SENSOR/blob/main/PCB%20and%20BREADBARD%20images/Microprocessor%20Design%20on%20Breadboard.png)
 
 ---
 
