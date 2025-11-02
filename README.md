@@ -56,7 +56,7 @@ This is the alternative, software-based implementation of the same problem. The 
 
 This prototype shows the circuit built around a programmable chip, demonstrating the simplicity of the hardware when the logic is managed by software.
 
-![Microprocessor Breadboard](https://github.com/YusufOck/TRAFFIC-LIGHT-CONTROL-WITH-SENSOR/blob/main/PCB%20and%20BREADBARD%20images/Microprocessor%20Design%20on%20Breadboard.png)
+![Microprocessor Breadboard](https://github.com/YusufOck/TRAFFIC-LIGHT-CONTROL-WITH-SENSOR/blob/main/PCB%20and%20BREADBARD%20images/Microprocessor%20Design%20on%20Breadboard.jpg)
 
 ---
 
